@@ -1,6 +1,6 @@
-# Olá, tudo bem? Este repositório se trata de um projeto do curso DIO.me no qual trata-se de uma readaptação da interface de login do Instagram. 
+# Olá, tudo bem? 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+ste repositório se trata de um projeto do curso DIO.me no qual trata-se de uma readaptação da interface de login do Instagram.
 
 ### Os requisitos foram:
 
