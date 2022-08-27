@@ -1,4 +1,4 @@
-# Olá, tudo bem? 
+# Recriação da interface de login do Instagram!
 
 Este repositório se trata de um projeto do curso DIO.me no qual trata-se de uma readaptação da interface de login do Instagram.
 
