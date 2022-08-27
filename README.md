@@ -1,6 +1,6 @@
 # Olá, tudo bem? 
 
-ste repositório se trata de um projeto do curso DIO.me no qual trata-se de uma readaptação da interface de login do Instagram.
+Este repositório se trata de um projeto do curso DIO.me no qual trata-se de uma readaptação da interface de login do Instagram.
 
 ### Os requisitos foram:
 
